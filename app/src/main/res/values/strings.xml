@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="calc">Calculator</string>
+    <string name="hint1">Enter the first number</string>
+    <string name="hint2">Enter the second number</string>
+    <string name="value">The answer will be displayed here</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
